@@ -9,14 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e256405d-eb4e-4c77-a8bc-8d92c9e1b5e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="e256405d-eb4e-4c77-a8bc-8d92c9e1b5e7" name="Changes" comment="Все собирается, переделать фильтр : перейти на Spring boot" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,8 +276,16 @@
       <workItem from="1652446324977" duration="3257000" />
       <workItem from="1652449624865" duration="2373000" />
       <workItem from="1652515613134" duration="1045000" />
-      <workItem from="1652516686240" duration="37414000" />
+      <workItem from="1652516686240" duration="37727000" />
     </task>
+    <task id="LOCAL-00001" summary="Все собирается, переделать фильтр : перейти на Spring boot">
+      <created>1652795834925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652795834925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,5 +301,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Все собирается, переделать фильтр : перейти на Spring boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Все собирается, переделать фильтр : перейти на Spring boot" />
   </component>
 </project>
